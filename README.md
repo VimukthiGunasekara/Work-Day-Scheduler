@@ -45,4 +45,4 @@ released under MIT license.
 
 ## Mock-Up
 
-![Screenshot]()
+![Screenshot](./assets/images/screenshot.png)
