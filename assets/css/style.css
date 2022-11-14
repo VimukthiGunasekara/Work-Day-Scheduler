@@ -1,0 +1,32 @@
+.hero {
+    background-color: #1d3557;
+}
+
+.headTitle {
+    font-size: 60px;
+}
+
+#dateTime {
+    font-size: 24px;
+}
+
+.saveBtn {
+    width: 32px;
+    height: 32px;
+    background: url(../images/icon-save.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.past {
+    background-color: #f1faee;
+}
+
+.present {
+    background-color: #e63946;
+    color: white;
+}
+
+.future {
+    background-color: #a8dadc;
+}
