@@ -5,9 +5,9 @@ This program generates a random password based on the criteria selected by the u
 
 ## Submission
 
-Deployed URL: 
+Deployed URL: https://vimukthigunasekara.github.io/work-day-scheduler/
 <br>
-GitHub Repo URL: 
+GitHub Repo URL: https://github.com/VimukthiGunasekara/work-day-scheduler
 
 
 ## User Story
