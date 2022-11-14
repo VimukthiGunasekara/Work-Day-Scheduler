@@ -10,15 +10,14 @@ function printDateTime() {
 
 function hourTracker() {
        $('.timeSchedule').each(function () {
-        var blockHour = $(this).attr("id");
+        var schedulehHour = $(this).attr("id");
         console.log( "currentHour " + currentHour)
-        console.log("blockHour " + blockHour)
+        console.log("schedulehHour " + schedulehHour)
 
-        //check if we've moved past this time
-        if (blockHour < currentHour) {
+        if (schedulehHour < currentHour) {
             $(this).addClass("past");
         }
-        else if (blockHour == currentHour) {
+        else if (schedulehHour == currentHour) {
             $(this).addClass("present");
         }
         else {
@@ -28,4 +27,4 @@ function hourTracker() {
 }
 
 printDateTime();
-saveData();
+hourTracker();

@@ -8,15 +8,14 @@ The Work Day Scheduler is a tool that helps you keep track of your daily schedul
 Deployed URL: https://vimukthigunasekara.github.io/work-day-scheduler/
 <br>
 GitHub Repo URL: https://github.com/VimukthiGunasekara/work-day-scheduler
-
-
+ 
+ 
 ## User Story
 
 ``` 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-
 ```
 
 
@@ -36,13 +35,12 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-
 ```
+
 
 ## License
 
 released under MIT license.
-
 
 
 ## Mock-Up

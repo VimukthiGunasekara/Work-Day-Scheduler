@@ -30,3 +30,12 @@
 .future {
     background-color: #a8dadc;
 }
+
+.footer{
+    margin-top: 24px;
+    width: 100%;
+    padding: 36px;
+    background-color: #1d3557;
+    color: white;
+    text-align: center;
+}
