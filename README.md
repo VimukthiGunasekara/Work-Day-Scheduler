@@ -39,6 +39,12 @@ THEN the saved events persist
 
 ```
 
+## License
+
+released under MIT license.
+
+
+
 ## Mock-Up
 
 ![Screenshot]()
