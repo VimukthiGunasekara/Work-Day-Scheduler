@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-This program generates a random password based on the criteria selected by the user.that can generate strong and unique passwords automatically. 
+The Work Day Scheduler is a tool that helps you keep track of your daily schedule and easy-to-use tool that helps you plan your work days.
 
 
 ## Submission
