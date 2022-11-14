@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Work Day Scheduler 📅
 
 The Work Day Scheduler is a tool that helps you keep track of your daily schedule and easy-to-use tool that helps you plan your work days.
 
