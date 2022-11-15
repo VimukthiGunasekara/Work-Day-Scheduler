@@ -7,7 +7,7 @@ The Work Day Scheduler is a tool that helps you keep track of your daily schedul
     <img src="https://img.shields.io/badge/-CSS-lightgrey" />
     <img src="https://img.shields.io/badge/-JavaScript-blue" />
     <img src="https://img.shields.io/badge/-jquery-orange" />
-    <img src="https://img.shields.io/badge/-bootstrap-lightgrey"  />
+    <img src="https://img.shields.io/badge/-bootstrap-yellowgreen"  />
 </p>
 
 ## Submission
