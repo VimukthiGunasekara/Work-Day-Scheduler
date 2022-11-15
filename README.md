@@ -2,6 +2,13 @@
 
 The Work Day Scheduler is a tool that helps you keep track of your daily schedule and easy-to-use tool that helps you plan your work days.
 
+<p>
+    <img src="https://img.shields.io/badge/-HTML-brightgreen" />
+    <img src="https://img.shields.io/badge/-CSS-lightgrey" />
+    <img src="https://img.shields.io/badge/-JavaScript-blue" />
+    <img src="https://img.shields.io/badge/-jquery-orange" />
+    <img src="https://img.shields.io/badge/-bootstrap-lightgrey"  />
+</p>
 
 ## Submission
 
