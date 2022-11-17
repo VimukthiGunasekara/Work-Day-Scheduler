@@ -10,7 +10,7 @@ function printDateTime() {
 
 function hourTracker() {
     $('.timeSchedule').each(function () {
-        var schedulehHour = $(this).attr("id");
+        var schedulehHour = $(this).attr("id").split("time")[1];
         console.log("currentHour " + currentHour)
         console.log("schedulehHour " + schedulehHour)
 
