@@ -6,16 +6,23 @@
     font-size: 60px;
 }
 
+.timeSchedule{
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.description{
+    border-radius: 5px;
+}
+
 #dateTime {
     font-size: 24px;
 }
 
 .saveBtn {
-    width: 32px;
-    height: 32px;
-    background: url(../images/icon-save.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    border: none;
+    background: none;
 }
 
 .past {

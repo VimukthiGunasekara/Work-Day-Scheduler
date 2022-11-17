@@ -47,7 +47,7 @@ THEN the saved events persist
 
 ## License
 
-released under ⚖️ MIT license.
+released under  <img src="https://img.shields.io/apm/l/vim-mode"  />
 
 
 ## Mock-Up
